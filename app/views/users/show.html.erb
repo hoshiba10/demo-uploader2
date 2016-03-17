@@ -1,5 +1,6 @@
 <h1>デモ画像アップローロアプリ(show)</h1>
 <% @user.each do |user| %>
     名前:<%= user.name %><br>
-    画像:<%= user.image %><br>
+    画像:
+    <%= image_tag user.image_url(:profile) %>
 <% end %>

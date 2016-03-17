@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: hvpxzokhy
+  api_key: '988923385396594'
+  api_secret: vT5HlTHdTWFN9rPQH3NJYmdxjQU
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: hvpxzokhy
+  api_key: '988923385396594'
+  api_secret: vT5HlTHdTWFN9rPQH3NJYmdxjQU
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: hvpxzokhy
+  api_key: '988923385396594'
+  api_secret: vT5HlTHdTWFN9rPQH3NJYmdxjQU
+  enhance_image_tag: true
+  static_image_support: false
